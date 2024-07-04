@@ -9,7 +9,7 @@ interface Hero {
 interface Shop {
   /* Your code here */
   item:string;
-  price:number;
+  price:number; 
 }
 
 // assign interface/type to the function definition properly

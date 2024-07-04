@@ -19,7 +19,7 @@ return students
 // assign interface/type to the student1 object properly
 const students1: Student[]= [
   { name: "john", score: 10 },
-  { name: "jane", score: 9 },
+  { name: "jane", score: 9 }, 
   { name: "jim", score: 8 },
 ];
 

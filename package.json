@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "*",
-    "babel-jest": "*",
+    "babel-jest": "*", 
     "@babel/preset-env": "*",
     "jest": "^27.0.6"
   },

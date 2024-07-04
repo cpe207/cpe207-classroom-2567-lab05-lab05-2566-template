@@ -7,7 +7,7 @@ function buyItem(hero, shop) {
         hero.items.push(shop.item);
         hero.gold - shop.price;
         return hero;
-    }
+    } 
     return hero;
 }
 //Test cases : assign proper type/interface to all objects
