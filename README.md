@@ -1,10 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GHgnsbI8)
 # Lab 05 : The Joy of pure TypeScript/JavaScript Part 2
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
-
-ชื่อ-สกุล :
+รหัส นศ.:660610741
+ 
+ชื่อ-สกุล :กัญญาวีย์ ศรีแท่นแก้ว
 
 ให้ นศ.เขียนโปรแกรมโดยใช้ Node.js + TypeScript ตามคำสั่งของโจทย์ในข้อต่าง ๆ ตามรายละเอียดด้านล่างนี้
 
