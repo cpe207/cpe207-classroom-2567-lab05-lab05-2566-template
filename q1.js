@@ -1,6 +1,10 @@
 // assign interface/type to the function definition properly
 function buyItem(hero, shop) {
-    /* Your code here */
+    if (hero.gold >= shop.price) {
+        hero.items.push(shop.item);
+        hero.gold -= shop.price;
+    }
+    return hero;
 }
 //Test cases : assign proper type/interface to all objects
 var hero1 = {
@@ -22,3 +26,5 @@ var shop2 = {
 console.log(buyItem(hero1, shop1));
 console.log(buyItem(hero2, shop2));
 module.exports = buyItem;
+// 660610741
+// Kanyawee Srithankaew.
