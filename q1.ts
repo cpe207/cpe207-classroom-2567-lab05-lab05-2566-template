@@ -48,4 +48,4 @@ console.log(buyItem(hero2, shop2));
 module.exports = buyItem;
 
 // 660610741
-// Kanyawee Srithankaew
+// Kanyawee Srithankaew.
